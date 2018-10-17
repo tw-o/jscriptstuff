@@ -1,1 +1,1 @@
-# jscriptstuff
+# This is a Javascript course.
